@@ -1,0 +1,3 @@
+ls listuje zawartość katalogów z informacjami o nich
+tree pokazuje strukturę katalogów, bez szczegółowych informacji
+cp kopiuje pliki
