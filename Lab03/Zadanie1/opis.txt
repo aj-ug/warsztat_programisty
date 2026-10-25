@@ -1,0 +1,2 @@
+> nadpisuje plik
+>> dodaje linie na końcu pliku
